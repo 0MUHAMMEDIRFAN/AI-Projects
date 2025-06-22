@@ -1,0 +1,1 @@
+there is a problem with installing dependensies or libs. in windows

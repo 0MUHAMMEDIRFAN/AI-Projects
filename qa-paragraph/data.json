@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "title": "Gandhi",
+      "paragraphs": [
+        {
+          "context": "Mahatma Gandhi was born in 1869. He fought for India's independence using non-violence.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "When was Gandhi born?",
+              "answers": [{"text": "1869", "answer_start": 27}],
+              "is_impossible": false
+            },
+            {
+              "id": "2",
+              "question": "What method did Gandhi use?",
+              "answers": [{"text": "non-violence", "answer_start": 75}],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
